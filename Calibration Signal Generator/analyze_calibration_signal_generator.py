@@ -1,9 +1,9 @@
 """
 Signal Generator Calibration Data Analysis Script
 
-This script analyzes calibration measurement data from signal generator characterization
-experiments. It loads data from both high and low range measurements, performs linear
-fitting analysis, and generates calibration plots and parameters.
+This script analyzes the calibration measurement data. It loads data from both the high and low range measurements, 
+performs linear fitting analysis, and generates calibration plots and parameters to find offsets in the actual 
+signal generators output power.
 """
 
 import numpy as np

@@ -1,9 +1,8 @@
 """
 Automated calibration measurement script for signal generator characterization.
 
-This script performs power sweep measurements using a Keysight signal generator and 
-spectrum analyzer via GPIB communication. The measurement data is automatically saved 
-to a timestamped file for calibration analysis.
+This script performs power sweep measurements using a Keysight signal generator. The data is received with a
+spectrum analyzer and automatically saved for calibration analysis. Both devices are controlled via pyvisa.
 
 For detailed setup instructions and usage guidelines, refer to the accompanying 
 signal_generator_calibration_guide.md documentation in this folder.

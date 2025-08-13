@@ -1,10 +1,9 @@
 """
 SDR Dynamic Range Analysis and Offset Correction Script
 
-This script analyzes dynamic range measurements from Software Defined Radio (SDR) devices
-including RTL-SDR, PlutoSDR, HackRF, and USRP B210/B200mini. It processes power sweep data
+This script analyzes dynamic range measurements. It processes power sweep data
 to determine optimal calibration offsets for accurate power measurements and generates
-visualization plots of the dynamic range characteristics.
+visualization plots and tables of the dynamic range characteristics.
 
 For detailed documentation and measurement procedures, refer to the accompanying 
 dynamic_range_guide.md file in the same folder.

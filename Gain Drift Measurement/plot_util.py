@@ -4,7 +4,7 @@ Gain Drift Measurement Data Analysis and Visualization
 This script processes gain drift measurement data from CSV files containing timestamp,
 measured power, and optional standard deviation columns. It performs data interpolation,
 smoothing, and generates plots showing both absolute power measurements and relative
-drift over time for SDR device characterization.
+drift over time.
 """
 
 import os

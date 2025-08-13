@@ -2,7 +2,7 @@
 Dynamic Range Measurement Script for SDR Receiver Characterization
 
 This script automates dynamic range measurements by controlling a signal generator
-to sweep through power levels while using GNU Radio flowgraphs with various SDRs (RTL-SDR, HackRF, PlutoSDR, LimeSDR, USRP) to measure received power.
+to sweep through power levels while using GNU Radio flowgraphs to measure received power.
 The script performs gain sweeps, calculates statistics, and generates comparison plots.
 Keep in mind, that in the output data the gain is already subtracted from the measured power.
 

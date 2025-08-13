@@ -3,7 +3,7 @@
 This script performs an automated calibration of the Rohde & Schwarz SMPC signal generator using a Keysight N9010B spectrum analyzer via GPIB control.
 
 ## Objective
-The signal generator is central to SDR characterization. It must be calibrated in advance to detect and correct any offsets or deviations, ensuring accurate downstream measurements.
+The signal generator is central to SDR characterization. It must be calibrated in advance to detect and correct any offsets or deviations, ensuring accurate measurements.
 
 ## Experimental Setup
 The experiment uses the Rohde & Schwarz SMPC signal generator and the Keysight EXA Signal Analyzer N9010B.  Per Default the signal generator outputs at 1 GHz, while the spectrum analyzer is tuned to the same frequency with a 10 kHz span. The analyzer averages 100 samples per power step, with settings optimized separately for two ranges: Low (-120 dBm to -95 dBm) and High (-95 dBm to 0 dBm), each with distinct resolution bandwidths and reference levels to ensure accurate measurements across the spectrum. This is done to keep the Noise Floor of the spectrum analyzer low enough but also ensure the measurement doesn't take too long. 

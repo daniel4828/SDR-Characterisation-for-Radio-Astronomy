@@ -1,6 +1,6 @@
 # Dynamic Range Measurement of SDRs with Signal Generator
 
-This Python script automates the measurement of the dynamic range of various Software Defined Radios (SDRs) using a calibrated signal generator.
+This Python script automates the measurement of the dynamic range of the SDRs using a calibrated signal generator.
 
 ## Objective
 Characterizing the dynamic range of an SDR is essential to understand the amplitude range over which it can accurately measure signals, avoid ADC saturation, and ensure reliable radiometric measurements in later radio astronomy experiments.

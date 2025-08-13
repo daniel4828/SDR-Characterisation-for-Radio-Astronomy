@@ -1,7 +1,7 @@
 """
 Noise Figure vs Gain Analysis Script for SDR Receiver Characterization
 
-This script analyzes noise figure measurements from various SDR receivers (PLUTO, RTL, USRP, HACKRF)
+This script analyzes noise figure measurements from various SDRs (PLUTO, RTL, USRP, HACKRF)
 with optional LNA correction using Friis formula. Generates comparative plots showing gain vs noise figure
 characteristics across different SDR platforms. 
 

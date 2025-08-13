@@ -1,6 +1,6 @@
 # Gain Drift Measurement with SDRs
 
-This script measures gain stability (gain drift) of multiple Software-Defined Radios (SDRs) over time.
+This script measures gain stability (gain drift) of the SDRs over time.
 
 ## Objective
 In radio astronomy, measurements are often conducted over extended periods of time. When using an SDR for such measurements, it is essential to know whether the gain remains stable or drifts over time. Any drift in gain can unknowingly distort the measurement results and lead to incorrect interpretations.

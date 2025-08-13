@@ -1,6 +1,6 @@
 # Y-Factor Noise Figure Measurement Guide
 
-This script measures the noise figure of SDR receivers using the Y-factor method by switching a calibrated noise source on and off while recording received power levels.
+This script measures the noise figure of the SDRs using the Y-factor method by switching a calibrated noise source on and off while recording received power levels.
 
 ## **Objective**
 For precise radiometric measurements, it is essential to know the noise figure (NF) of the receiver chain. The NF indicates how much additional noise is introduced by the receiving system itself and is therefore critical for the correct interpretation of the measured signal power.
