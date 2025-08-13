@@ -1,0 +1,3 @@
+Set_Power_dBm,Mean_Measured_Power,Std_Dev_Measured_Power
+-120.00,-65.16371240,0.07221510
+-119.00,-65.18808746,0.03414907

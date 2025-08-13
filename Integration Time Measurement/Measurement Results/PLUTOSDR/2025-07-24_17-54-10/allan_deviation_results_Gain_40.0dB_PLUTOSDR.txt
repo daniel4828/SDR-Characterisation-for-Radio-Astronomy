@@ -1,0 +1,10 @@
+# Allan Deviation Measurement
+# Start time: 2025-07-24 17:55:04
+# SDR Type: PLUTOSDR, Gain: 40.0 dB, Freq: 1000.0 MHz, Samp Rate: 2.0 Msps
+# Collected Data Points: 8388
+# Integration Time (s), Allan Deviation
+0.128, 2.2182979583740234
+0.256, 1.2037627696990967
+0.512, 0.7885925769805908
+1.024, 0.518425703048706
+2.048, 0.6898611783981323

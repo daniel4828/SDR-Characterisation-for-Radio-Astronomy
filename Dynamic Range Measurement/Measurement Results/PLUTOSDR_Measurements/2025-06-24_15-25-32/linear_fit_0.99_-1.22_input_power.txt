@@ -1,0 +1,58 @@
+SDR: PLUTO
+
+Gain: 0.0
+  Input Power Range: -57.898790277876834 to -2.212922892476621
+  Measured Power Range: -65.41964385 to -8.34240384
+  R²: 0.999075
+  Slope: 0.999482, Offset: -4.850065
+  Offset - Gain: -4.850065
+
+Gain: 10.0
+  Input Power Range: -66.84830467910187 to -2.212922892476621
+  Measured Power Range: -65.06275007 to 0.7525779900000007
+  R²: 0.999199
+  Slope: 0.998043, Offset: 4.883477
+  Offset - Gain: -5.116523
+
+Gain: 20.0
+  Input Power Range: -74.8034285913019 to -11.162437293701656
+  Measured Power Range: -63.42037963999999 to 1.30789884
+  R²: 0.999188
+  Slope: 1.002935, Offset: 14.618100
+  Offset - Gain: -5.381900
+
+Gain: 30.0
+  Input Power Range: -83.75294299252694 to -22.100732672976697
+  Measured Power Range: -62.06035826 to 1.1718976800000007
+  R²: 0.999229
+  Slope: 1.006670, Offset: 25.135585
+  Offset - Gain: -4.864415
+
+Gain: 40.0
+  Input Power Range: -93.69684788277698 to -29.061466096151726
+  Measured Power Range: -63.294863809999995 to 1.4105206699999968
+  R²: 0.999033
+  Slope: 0.996232, Offset: 32.983857
+  Offset - Gain: -7.016143
+
+Gain: 50.0
+  Input Power Range: -100.65758130595201 to -39.999761475426766
+  Measured Power Range: -60.068115680000005 to 1.214787170000001
+  R²: 0.999174
+  Slope: 1.006148, Offset: 43.322705
+  Offset - Gain: -6.677295
+
+Gain: 60.0
+  Input Power Range: -111.59587668522704 to -50.93805685470181
+  Measured Power Range: -55.06583225 to 0.9036839799999967
+  R²: 0.999010
+  Slope: 0.973907, Offset: 51.364744
+  Offset - Gain: -8.635256
+
+Gain: 70.0
+  Input Power Range: -108.61270521815203 to -60.881961744951845
+  Measured Power Range: -42.76185862 to 0.7941907200000031
+  R²: 0.999081
+  Slope: 0.964318, Offset: 60.572131
+  Offset - Gain: -9.427869
+

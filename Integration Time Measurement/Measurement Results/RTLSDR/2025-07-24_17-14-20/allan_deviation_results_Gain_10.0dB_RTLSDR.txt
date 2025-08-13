@@ -1,0 +1,8 @@
+# Allan Deviation Measurement
+# Start time: 2025-07-24 17:14:58
+# SDR Type: RTLSDR, Gain: 10.0 dB, Freq: 1000.0 MHz, Samp Rate: 2.0 Msps
+# Collected Data Points: 3407
+# Integration Time (s), Allan Deviation
+0.128, 0.005365478340536356
+0.256, 0.006612610071897507
+0.512, 0.011926553212106228

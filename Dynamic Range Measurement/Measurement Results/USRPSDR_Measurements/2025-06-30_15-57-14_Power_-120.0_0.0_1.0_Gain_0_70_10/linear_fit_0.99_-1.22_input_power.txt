@@ -1,0 +1,58 @@
+SDR: USRP B210
+
+Gain: 0.0
+  Input Power Range: -57.898790277876834 to -1.218532403451617
+  Measured Power Range: -75.05361938 to -20.96008144
+  R²: 0.999200
+  Slope: 0.987710, Offset: -20.150412
+  Offset - Gain: -20.150412
+
+Gain: 10.0
+  Input Power Range: -62.870742723001854 to -1.218532403451617
+  Measured Power Range: -71.54517873 to -12.84595066
+  R²: 0.999119
+  Slope: 0.989163, Offset: -11.982903
+  Offset - Gain: -21.982903
+
+Gain: 20.0
+  Input Power Range: -72.81464761325189 to -1.218532403451617
+  Measured Power Range: -71.31351174 to -3.2986170500000007
+  R²: 0.999006
+  Slope: 0.989132, Offset: -2.496118
+  Offset - Gain: -22.496118
+
+Gain: 30.0
+  Input Power Range: -79.77538103642692 to -4.201703870526629
+  Measured Power Range: -68.40847524 to 0.9360245599999999
+  R²: 0.999045
+  Slope: 0.986020, Offset: 7.303745
+  Offset - Gain: -22.696255
+
+Gain: 40.0
+  Input Power Range: -90.71367641570197 to -14.145608760776666
+  Measured Power Range: -69.93560028 to 0.8915027999999978
+  R²: 0.999150
+  Slope: 0.987753, Offset: 16.833304
+  Offset - Gain: -23.166696
+
+Gain: 50.0
+  Input Power Range: -92.70245739375197 to -24.089513651026706
+  Measured Power Range: -62.26267403 to 0.8855865900000026
+  R²: 0.999036
+  Slope: 0.985662, Offset: 26.530336
+  Offset - Gain: -23.469664
+
+Gain: 60.0
+  Input Power Range: -94.69123837180197 to -34.033418541276745
+  Measured Power Range: -55.30348549 to 0.8899803199999994
+  R²: 0.999121
+  Slope: 0.985850, Offset: 36.046397
+  Offset - Gain: -23.953603
+
+Gain: 70.0
+  Input Power Range: -95.68562886082698 to -43.977323431526784
+  Measured Power Range: -46.9837273 to 0.6836873099999963
+  R²: 0.999060
+  Slope: 0.983508, Offset: 45.385738
+  Offset - Gain: -24.614262
+

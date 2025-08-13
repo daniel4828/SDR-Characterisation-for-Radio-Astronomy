@@ -1,0 +1,37 @@
+SDR: RTL
+
+Gain: 0.0
+  Input Power Range: -64.85952370105186 to -16.134389738826673
+  Measured Power Range: -44.52883954 to 0.92708371
+  R²: 0.999029
+  Slope: 0.985811, Offset: 17.344498
+  Offset - Gain: 17.344498
+
+Gain: 10.0
+  Input Power Range: -82.75855250350193 to -34.033418541276745
+  Measured Power Range: -44.20199184 to 1.08242276
+  R²: 0.999283
+  Slope: 0.985231, Offset: 35.886098
+  Offset - Gain: 25.886098
+
+Gain: 20.0
+  Input Power Range: -90.71367641570197 to -41.988542453476775
+  Measured Power Range: -43.59343868 to 1.1131333199999993
+  R²: 0.999069
+  Slope: 0.981825, Offset: 43.872368
+  Offset - Gain: 23.872368
+
+Gain: 30.0
+  Input Power Range: -98.66880032790199 to -52.926837832751815
+  Measured Power Range: -41.475789809999995 to 0.9677541500000011
+  R²: 0.999144
+  Slope: 0.979375, Offset: 53.612137
+  Offset - Gain: 23.612137
+
+Gain: 40.0
+  Input Power Range: -101.651971794977 to -58.89318076690184
+  Measured Power Range: -39.04713081 to 0.8208645699999977
+  R²: 0.999089
+  Slope: 0.977828, Offset: 58.834387
+  Offset - Gain: 18.834387
+

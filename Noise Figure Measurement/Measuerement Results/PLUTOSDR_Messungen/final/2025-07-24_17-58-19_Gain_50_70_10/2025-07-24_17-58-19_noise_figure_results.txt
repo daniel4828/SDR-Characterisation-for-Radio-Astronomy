@@ -1,0 +1,4 @@
+# Y-Factor Noise Figure Measurement Results
+# SDR_TYPE: PLUTOSDR, ENR: 14.54 dB, Freq: 1000.0 MHz, SampRate: 2.0 MSps
+SDR_Gain_dB,P_hot_dBm,P_cold_dBm,Y_Factor_dB,Noise_Figure_dB
+50.0,-110.63938557,-110.54847058,-0.09091499,nan

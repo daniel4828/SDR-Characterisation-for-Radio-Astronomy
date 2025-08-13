@@ -1,0 +1,7 @@
+# Allan Deviation Measurement
+# Start time: 2025-07-25 14:55:56
+# SDR Type: HACKRF, Gain: 60.0 dB, Freq: 1000.0 MHz, Samp Rate: 2.0 Msps
+# Collected Data Points: 1441
+# Integration Time (s), Allan Deviation
+0.128, 0.008694934658706188
+0.256, 0.009522443637251854

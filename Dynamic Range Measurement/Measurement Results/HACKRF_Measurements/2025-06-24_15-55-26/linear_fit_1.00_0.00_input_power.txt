@@ -1,0 +1,51 @@
+SDR: HACKRF
+
+Gain: 0.0
+  Input Power Range: -33.0 to 0.0
+  Measured Power Range: -35.47149234 to -1.43421562
+  R²: 0.999623
+  Slope: 1.002476, Offset: -1.360546
+  Offset - Gain: -1.360546
+
+Gain: 10.0
+  Input Power Range: -42.0 to -6.0
+  Measured Power Range: -33.59114568 to 1.07932321
+  R²: 0.999560
+  Slope: 0.989283, Offset: 8.126728
+  Offset - Gain: -1.873272
+
+Gain: 20.0
+  Input Power Range: -51.0 to -16.0
+  Measured Power Range: -32.58312899 to 1.1376090300000001
+  R²: 0.999490
+  Slope: 0.989338, Offset: 18.114700
+  Offset - Gain: -1.885300
+
+Gain: 30.0
+  Input Power Range: -62.0 to -26.0
+  Measured Power Range: -34.89255545 to 0.9927665899999987
+  R²: 0.999390
+  Slope: 0.992806, Offset: 27.776092
+  Offset - Gain: -2.223908
+
+Gain: 40.0
+  Input Power Range: -70.0 to -36.0
+  Measured Power Range: -32.465893640000004 to 1.0802711899999977
+  R²: 0.999361
+  Slope: 0.992051, Offset: 37.836603
+  Offset - Gain: -2.163397
+
+Gain: 50.0
+  Input Power Range: -78.0 to -48.0
+  Measured Power Range: -30.789071399999997 to 0.3240998200000007
+  R²: 0.999062
+  Slope: 1.018670, Offset: 49.566827
+  Offset - Gain: -0.433173
+
+Gain: 60.0
+  Input Power Range: -83.0 to -57.0
+  Measured Power Range: -23.295942089999997 to 0.824112999999997
+  R²: 0.999084
+  Slope: 0.971600, Offset: 56.618091
+  Offset - Gain: -3.381909
+
