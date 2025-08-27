@@ -4,7 +4,7 @@ This repository was created during participation in the module "SIERRA - Radio A
 # About this Repository
 The scripts in this repository allow characterization of SDRs regarding their dynamic range, noise figure, gain drift, and optimal integration time. These scripts automate the measurements. The GPIB protocol from National Instruments and GNU Radio are used to control the SDRs. More information can be found in the Technical Report, which contains all the results obtained from the measurements.
 
-The examined SDRs are the RTL-SDR, HackRF, PlutoSDR, LimeSDR, USRP B210 and USRP B200mini.
+The examined SDRs are the RTL-SDR, HackRF, PlutoSDR, USRP B210 and USRP B200mini.
 
 Each folder contains the relevant Python scripts to perform and evaluate the measurements, as well as a guide on how to conduct them. GNU Radio, NIVisa, and PyVisa are required for the measurements. Information on downloading and usage can be found in `GNU Radio and PyVisa.md` and `GPIB and NIVisa`.
 
